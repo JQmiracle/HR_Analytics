@@ -1,7 +1,5 @@
 # HR_Analytics_Job Change of Data Scientists
 
-## dddd
-
 ## Goal
 This project is to predict the probability that a data scientist will still work for a company or look for a new job, and analyze which factor could affect a data scientist to make a final decision.
 
