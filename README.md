@@ -8,4 +8,5 @@ Logistic Regression, Lasso Linear Regression, Decision Tree, Random Forest, GBM 
 The analysis and business implication will help companies to design strategies to retain employees. Here is a potential business recommnendation for a 50-99 company in less developed cities, it needs to consider provide them with some incentives or bonus. In addition, more team building is a good way to bond the current employees.
 
 
-<img width="941" alt="Screen Shot 2022-06-13 at 1 31 31 AM" src="https://user-images.githubusercontent.com/87022634/173286112-20349b91-ad59-499e-9755-b0453997ec40.png">
+
+<img width="948" alt="Screen Shot 2022-06-13 at 1 32 30 AM" src="https://user-images.githubusercontent.com/87022634/173286404-e068d03d-e33a-442d-a60e-717df7f904da.png">
